@@ -116,14 +116,14 @@ For each course, these represent...
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/162?pf=0"> dqlab </a>]
     [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1OJHMGW"> certificate </a>]
-    [<a href=""> summary </a>]
-    Introduction to Data Science with Python
+    [<a href="https://nitrataripin.medium.com/introduction-to-data-science-with-python-4cfd6e13bea0"> summary </a>]
+    ✔️ Introduction to Data Science with Python
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/45?pf=0"> dqlab </a>]
     [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJUSM"> certificate </a>]
-    [<a href=""> summary </a>]
-    Python Fundamental for Data Science
+    [<a href="https://nitrataripin.medium.com/python-fundamental-for-data-science-4ee83450f309"> summary </a>]
+    ✔️ Python Fundamental for Data Science
   </li>
 </ul>
 </details>
@@ -133,62 +133,62 @@ For each course, these represent...
 <ul>  
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/79?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
-    Data Wrangling Python
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1CFNFPD"> certificate </a>]
+    [<a href="https://nitrataripin.medium.com/data-wrangling-python-569f8540f4cd"> summary </a>]
+    ✔️ Data Wrangling Python
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/157?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1FOHWVB"> certificate </a>]
+    [<a href=""> summary ❌ </a>]
     Python for Data Professional Beginner - Part 1
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/160?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1TTWBQF"> certificate </a>]
+    [<a href=""> summary ❌ </a>]
     Python for Data Professional Beginner - Part 2
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/161?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1CGKUNH"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Python for Data Professional Beginner - Part 3
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/163?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1VFQLVO"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Exploratory Data Analysis with Python for Beginner
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/164?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1JSMAFH"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Data Visualization with Python Matplotlib for Beginner - Part 1
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/165?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1KNBEQH"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Data Visualization with Python Matplotlib for Beginner - Part 2
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/166?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ETFQUB"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Data Quality with Python for Beginner
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/169?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GEMAER"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Machine Learning With Python for Beginner
   </li>
   <li>
     [<a href="https://academy.dqlab.id/main/package/practice/177?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1AMNSKC"> certificate </a>]
+    [<a href=""> summary❌ </a>]
     Fundamental Data Visualization with Python
   </li>
   <li>
