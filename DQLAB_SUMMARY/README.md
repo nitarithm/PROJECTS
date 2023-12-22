@@ -150,14 +150,14 @@ For each course, these represent...
 <summary> <b> Kelas Persiapan </b> </summary>
 <ul>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/162?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1OJHMGW"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1OJHMGW" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1OJHMGW#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href="https://nitrataripin.medium.com/introduction-to-data-science-with-python-4cfd6e13bea0"> summary </a>]
     ✔️ Introduction to Data Science with Python
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/45?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJUSM"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJUSM" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1NTJUSM#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href="https://nitrataripin.medium.com/python-fundamental-for-data-science-4ee83450f309"> summary </a>]
     ✔️ Python Fundamental for Data Science
   </li>
@@ -168,94 +168,187 @@ For each course, these represent...
 <summary> <b> Kelas Fundamental </b> </summary>
 <ul>  
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/79?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1CFNFPD"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1CFNFPD" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDTWP1CFNFPD#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href="https://nitrataripin.medium.com/data-wrangling-python-569f8540f4cd"> summary </a>]
     ✔️ Data Wrangling Python
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/157?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1FOHWVB"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1FOHWVB" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1FOHWVB#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary ❌ </a>]
     Python for Data Professional Beginner - Part 1
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/160?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1TTWBQF"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1TTWBQF" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1TTWBQF#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary ❌ </a>]
     Python for Data Professional Beginner - Part 2
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/161?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1CGKUNH"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1CGKUNH" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1CGKUNH#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Python for Data Professional Beginner - Part 3
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/163?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1VFQLVO"> material </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1VFQLVO" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1VFQLVO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Exploratory Data Analysis with Python for Beginner
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/164?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1JSMAFH"> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1JSMAFH" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDTWP1JSMAFH#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Visualization with Python Matplotlib for Beginner - Part 1
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/165?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1KNBEQH"> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1KNBEQH" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1KNBEQH#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Visualization with Python Matplotlib for Beginner - Part 2
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/166?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ETFQUB"> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ETFQUB" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDVIZ2ETFQUB#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Quality with Python for Beginner
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/169?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GEMAER"> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GEMAER" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDVIZ2GEMAER#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Machine Learning With Python for Beginner
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/177?pf=0"> dqlab </a>]
-    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1AMNSKC"> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1AMNSKC" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1AMNSKC#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Fundamental Data Visualization with Python
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/178?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1VIOILN" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1VIOILN#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Manipulation with Pandas - Part 1
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/252?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1NDJDND" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1NDJDND#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Manipulation with Pandas - Part 2
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/288?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FERMRO" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDVPP9FERMRO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Data Visualization using Plotnine
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20RDIRRE" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSWP1 RDIRRE#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Statistic using Python for Data Science - Part 1
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/290?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20RDPJOM" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSWP1 RDPJOM#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Statistic using Python for Data Science - Part 2
+  </li>  
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPDSP1UAFKOG" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPDSP1UAFKOG#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Populasi dan Sampel
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/295?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABJDPS1WVGGJB" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABJDPS1WVGGJB#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    Data Visualization using Plotnine
+    Jenis Data pada Statistik
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDNP1CFJAMQ" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDNP1CFJAMQ#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengenal Distribusi Normal dengan Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABUDVP1VMWJDK" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABUDVP1VMWJDK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Ukuran Data: Variasi
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABUDVP1GUWTLO" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABUDVP1GUWTLO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Ukuran Data: Pemusatan
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMVDS1NPRUSM" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMVDS1NPRUSM#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengenal Visualisasi Data Statistik
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDNP1CDCSLS" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDNP1CDCSLS#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengenal Model Regresi Linear Pada Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTLRPTAOPKN" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDTLRPTAOPKN#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengolah Data Teks Unstructured dengan REGEX pada Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSDVP1NWABHR" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSDVP1NWABHR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Pengantar Storytelling dengan Visualisasi menggunakan Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABBC1GSANDS" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABBC1GSANDS#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Binary Classification
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABIDTC1UMEFTO" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABIDTC1UMEFTO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Implementasi Decision Tree dengan CART
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMLAK1OKQVJN" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMLAK1OKQVJN#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Machine Learning: Algoritma K-Means dengan Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABIDTC1PWARJW" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABIDTC1PWARJW#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Metrik Penting pada Algoritma CART
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMRF1JLSMDA" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMRF1JLSMDA#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Metrik Penting pada Algoritma Random Forest
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMC1CVVIJF" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMC1CVVIJF#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Multiclass Classification dengan Algoritma Multinomial Naive Bayes dan k-Nearest Neighbors
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPMLP1TSVFOD" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPMLP1TSVFOD#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Pengantar Machine Learning dengan Python
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDSR1LPGVNW" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDSR1LPGVNW#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Perkenalan Data Scientist dengan Cerita Kasus Retail
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABTTSMLGCURTR" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABTTSMLGCURTR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Training Set dan Testing Set pada Machine Learning
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTRF1MQUTDE" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDTRF1MQUTDE#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Implementasi Decision Tree dengan Random Forest
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPACK1JIAIHT" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPACK1JIAIHT#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Metrik Statistik Penting pada Algoritma Clustering K-Means
   </li>
 </ul>
 </details>
@@ -264,70 +357,38 @@ For each course, these represent...
 <summary> <b> Kelas Penerapan di Industri </b> </summary>
 <ul>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/179?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABFATPYSIMFIF" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABFATPYSIMFIF#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Basic Feature Discovering for Machine Learning
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/247?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20KWEDSR" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABAPL1 KWEDSR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Science in Telco: Data Cleansing
   </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/249?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20RJARDR" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABAPL2 RJARDR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Customer Churn Prediction using Machine Learning
   </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/260?pf=0"> dqlab </a>]
-    [[<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
-  </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/284?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2IIHMBE" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDVIZ2IIHMBE#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Analyst Project: Business Decision Research
   </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/287?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABACWP1EIVAUF" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABACWP1EIVAUF#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
   </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/293?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDSCS1IRUBSP" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDSCS1IRUBSP#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Science in Marketing : Customer Segmentation with Python - Part 1
   </li><li>
-    [<a href="https://academy.dqlab.id/main/package/practice/294?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1HHSTOV" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABINTP1HHSTOV#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
+  </li><li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDSCS1HRVWDA" target="_blank" rel="noopener"> certificate </a>]	[<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDSCS1HRVWDA#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Data Science in Marketing : Customer Segmentation with Python - Part 2
-  </li>
-  <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    (Course)
-  </li>
-  <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    (Course)
-  </li>
-  <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    (Course)
-  </li>
-  <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    (Course)
   </li>
 </ul>
 </details>
