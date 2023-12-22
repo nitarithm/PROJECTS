@@ -304,6 +304,30 @@ For each course, these represent...
     [<a href=""> summary❌ </a>]
     Data Science in Marketing : Customer Segmentation with Python - Part 2
   </li>
+  <li>
+    [<a href=""> dqlab </a>]
+    [<a href=""> certificate </a>]
+    [<a href=""> summary❌ </a>]
+    (Course)
+  </li>
+  <li>
+    [<a href=""> dqlab </a>]
+    [<a href=""> certificate </a>]
+    [<a href=""> summary❌ </a>]
+    (Course)
+  </li>
+  <li>
+    [<a href=""> dqlab </a>]
+    [<a href=""> certificate </a>]
+    [<a href=""> summary❌ </a>]
+    (Course)
+  </li>
+  <li>
+    [<a href=""> dqlab </a>]
+    [<a href=""> certificate </a>]
+    [<a href=""> summary❌ </a>]
+    (Course)
+  </li>
 </ul>
 </details>
 
@@ -347,6 +371,12 @@ For each course, these represent...
     [<a href=""> summary❌ </a>]
     Fundamental SQL Group By and Having
   </li>
+  <li>
+    [<a href=""> dqlab </a>]
+    [<a href=""> certificate </a>]
+    [<a href=""> summary❌ </a>]
+    (Course)
+  </li>
 </ul>
 </details>
 
@@ -356,34 +386,34 @@ For each course, these represent...
 <summary> <b> R Projects </b> </summary>
 <ul>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJCTTNPHVE" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJCTTNPHVE/NONTRACK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Machine Learning for Retail with R: Product Packaging
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ8JDBLWB" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJ8JDBLWB/NONTRACK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Data Analysis for Finance: Performa Cabang
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC9BLHMOC" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC9BLHMOC/NONTRACK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Data Analysis for Finance: Proses Investasi Investor
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPAWR1PLUUTW" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPAWR1PLUUTW/NONTRACK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project: Data Scientist Assessment Using R
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRAN2VIQBIU" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRAN2VIQBIU/NONTRACK#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Analisa Klasifikasi Pinjaman untuk Sektor UMKM
   </li>
 </ul>
 </details>
@@ -392,34 +422,34 @@ For each course, these represent...
 <summary> <b> Python Projects </b> </summary>
 <ul>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC2VOLJQM" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC2VOLJQM#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Data Science Challenge with Python
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC3KLUQUT" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC3KLUQUT#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Data Engineer Challenge with Python
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC5NADUUN" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC5NADUUN#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Machine Learning with Python: Building Recommender System
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC6VCUGTR" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC6VCUGTR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Machine Learning with Python: Building Recommender System with Similarity Function
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDEPROTKSUTG" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDEPROTKSUTG#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Simple ETL with Pandas
   </li>  
 </ul>
 </details>
@@ -428,34 +458,46 @@ For each course, these represent...
 <summary> <b> SQL Projects </b> </summary>
 <ul>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLTSAUNLRO" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSQLTSAUNLRO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Data Engineer Challenge with SQL
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC4QHUUOR" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJC4QHUUOR#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Data Analysis for Retail: Sales Performance Report
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ10QLAOPE" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPRJ10QLAOPE#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project Data Analysis for B2B Retail: Customer Analytics Report
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLT2RHVWBI" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSQLT2RHVWBI#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Data Analysis for E-Commerce Challenge
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2EOKGWC" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABPFSQ2EOKGWC#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Project: Fundamental SQL Group By and Having
+  </li>
+</ul>
+</details>
+
+<details>
+<summary> <b> Data Analyst Python Track </b> </summary>
+<ul>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABDATRCUDEMAV" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABDATRCUDEMAV#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Data Analyst Python Track
   </li>
 </ul>
 </details>
