@@ -6,6 +6,7 @@ For each course, these represent...
 * **certificate**: certificate of completion/achievement
 * **course desc**: course short descriptions
 * **summary**: summary of the materials learned
+* ❌: link is not available
 
 
 ## Modules
@@ -336,10 +337,16 @@ For each course, these represent...
 <summary> <b> Kelas Persiapan </b> </summary>
 <ul>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/91?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLT1CQSIWM" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSQLT1CQSIWM#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Fundamental SQL with SELECT Statement
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDTLRBKFFJH" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDTLRBKFFJH#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengolah Data Teks Unstructured dengan REGEX pada SQL
   </li>
 </ul>
 </details>
@@ -348,34 +355,52 @@ For each course, these represent...
 <summary> <b> Kelas Fundamental </b> </summary>
 <ul>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/213?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
-    [<a href=""> summary❌ </a>]
-    Fundamental SQL Using SELECT Statement
-  </li>
-  <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/171?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLT2ABHDNE" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSQLT2ABHDNE#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Fundamental SQL Using FUNCTION and GROUP BY
   </li>
-  <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/244?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+ <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLT2MRKBUV" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABSQLT2MRKBUV#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Fundamental SQL Using INNER JOIN and UNION
   </li>
   <li>
-    [<a href="https://academy.dqlab.id/main/package/practice/291?pf=0"> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABFSQL3MLSUOL" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABFSQL3MLSUOL#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
     Fundamental SQL Group By and Having
   </li>
   <li>
-    [<a href=""> dqlab </a>]
-    [<a href=""> certificate </a>]
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDTDSAKRWDO" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDTDSAKRWDO#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
     [<a href=""> summary❌ </a>]
-    (Course)
+    Mengolah Data Teks Dasar pada MySQL
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDTDSCCQVDQ" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDTDSCCQVDQ#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Memanfaatkan Operator Logika di SQL
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMSSQLHRVACV" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMSSQLHRVACV#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Menggunakan Subquery pada SQL
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDTDSHCIAHA" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDTDSHCIAHA#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Mengolah Data Tanggal dan Jam Dasar dengan MySQL
+  </li>
+  <li>
+    [<a href="https://academy.dqlab.id/certificate/pdf/DQLABMDTDSEWLTEI" target="_blank" rel="noopener"> certificate </a>]
+    [<a href="https://academy.dqlab.id/Certificate_check/result/DQLABMDTDSEWLTEI#mycertificate" target="_blank" rel="noopener"> course short descriptions </a>]
+    [<a href=""> summary❌ </a>]
+    Menggunakan ORDER BY untuk Mengurutkan Data
   </li>
 </ul>
 </details>
