@@ -1,0 +1,16 @@
+const Hero = require('./Hero');
+
+// // before
+// class Warrior {
+
+// }
+
+
+// after
+class Warrior extends Hero {
+    constructor() {
+        super();
+        this.rage = 0;
+    }
+}
+module.exports = Warrior;
